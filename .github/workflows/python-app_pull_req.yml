@@ -1,4 +1,4 @@
-name: Python_application_CI
+name: Python_pull_request
 
 on:
   push:
